@@ -1,5 +1,8 @@
+*{
+	font-family: 'Urbanist', sans-serif;
+}
+
 #jumbo-title{
-	font-family: roboto;
 	font-weight: 900;
 	text-transform:uppercase;
 	color: #fff;
