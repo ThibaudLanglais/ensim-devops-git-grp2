@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: node-server:v4
+    container_name: node-server
+    working_dir: /app
+    ports:
+    - 8080:8080
